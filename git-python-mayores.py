@@ -5,4 +5,7 @@ print ("Marinduque State College")
 print ("Bachelor of Information Technology")
 print ("2nd Year College")
 print ("2F")
-
+print ("Playing Chess")
+print ("Painting")
+print ("Watching Movies, Series and Korean Drama")
+print ("Travelling")
